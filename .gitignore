@@ -1,0 +1,28 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Test/tooling/cache
+.pytest_cache/
+.mypy_cache/
+pip-wheel-metadata/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Notebooks / OS
+.ipynb_checkpoints/
+.DS_Store
